@@ -10,6 +10,9 @@ RUN pip install --upgrade pip
 RUN pip install virtualenv && python -m virtualenv /opt/venv
 
 ENV PATH="/opt/venv/bin:$PATH"
+# Set env variables
+ENV PYTHONDONTWRITEBYCODE 1
+ENV VIRTUAL_ENV=/opt/venv
 
 ADD ./requirement.txt /tmp/requirements.txt
 RUN pip install -r /tmp/requirements.txt
