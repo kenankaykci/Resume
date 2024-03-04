@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="feat: creating program, requirement.txt, Dockerfile and settings.py.">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume/.env" beforeDir="false" afterPath="$PROJECT_DIR$/Resume/docker.env" afterDir="false" />
-    </list>
+    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709540909603</updated>
       <workItem from="1709540942382" duration="3802000" />
-      <workItem from="1709544861977" duration="745000" />
+      <workItem from="1709544861977" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="feat: creating program, requirement.txt, Dockerfile and settings.py.">
       <option name="closed" value="true" />
@@ -156,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709544357748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created">
+      <option name="closed" value="true" />
+      <created>1709546083949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709546083949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: creating program, requirement.txt, Dockerfile and settings.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: creating program, requirement.txt, Dockerfile and settings.py." />
+    <MESSAGE value="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created" />
   </component>
 </project>
