@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="feat: created index viev">
+    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="feat: added bootstrap">
+      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resume/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
       <list>
         <option value="Dockerfile" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -69,8 +71,8 @@
       <recent name="C:\Users\Kenan\Desktop\Resume\Resume\Resume" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kenan\Desktop\Resume\Resume" />
       <recent name="C:\Users\Kenan\Desktop\Resume\Resume\core" />
+      <recent name="C:\Users\Kenan\Desktop\Resume\Resume" />
     </key>
   </component>
   <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
@@ -151,7 +153,7 @@
       <updated>1709540909603</updated>
       <workItem from="1709540942382" duration="3802000" />
       <workItem from="1709544861977" duration="2883000" />
-      <workItem from="1709548582306" duration="3613000" />
+      <workItem from="1709548582306" duration="4042000" />
     </task>
     <task id="LOCAL-00001" summary="feat: creating program, requirement.txt, Dockerfile and settings.py.">
       <option name="closed" value="true" />
@@ -193,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709550068752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: added bootstrap">
+      <option name="closed" value="true" />
+      <created>1709552413284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709552413284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +214,7 @@
     <MESSAGE value="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created" />
     <MESSAGE value="feat: enable continuous development" />
     <MESSAGE value="feat: created index viev" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: created index viev" />
+    <MESSAGE value="feat: added bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added bootstrap" />
   </component>
 </project>
