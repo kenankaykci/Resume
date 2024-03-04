@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created" />
+    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created">
+      <change afterPath="$PROJECT_DIR$/Resume/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,21 +51,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Kenan/Desktop/Resume/Resume/Resume",
+    "last_opened_file_path": "C:/Users/Kenan/Desktop/Resume/Resume/core",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kenan\Desktop\Resume\Resume\core" />
       <recent name="C:\Users\Kenan\Desktop\Resume\Resume\Resume" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kenan\Desktop\Resume\Resume" />
       <recent name="C:\Users\Kenan\Desktop\Resume\Resume\core" />
     </key>
   </component>
@@ -142,7 +148,8 @@
       <option name="presentableId" value="Default" />
       <updated>1709540909603</updated>
       <workItem from="1709540942382" duration="3802000" />
-      <workItem from="1709544861977" duration="1235000" />
+      <workItem from="1709544861977" duration="2883000" />
+      <workItem from="1709548582306" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="feat: creating program, requirement.txt, Dockerfile and settings.py.">
       <option name="closed" value="true" />
@@ -160,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709546083949</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor: Dockerfile and settings.py.&#10;feat: docker-compose.yml created">
+      <option name="closed" value="true" />
+      <created>1709547507515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709547507515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
