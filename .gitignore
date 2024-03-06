@@ -1,3 +1,13 @@
 # created by virtualenv automatically
 *.env
 *.idea
+media
+.pyre/
+.venv
+env/
+venv/
+ENV/
+.spyderproject
+/site
+.idea/
+.idea
