@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="feat: create contact page">
+    <list default="true" id="f09e8189-f400-4234-9d25-b832594f393a" name="Changes" comment="refactor: create includes">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
@@ -156,7 +157,8 @@
       <workItem from="1709540942382" duration="3802000" />
       <workItem from="1709544861977" duration="2883000" />
       <workItem from="1709548582306" duration="5836000" />
-      <workItem from="1709674391829" duration="1138000" />
+      <workItem from="1709674391829" duration="1249000" />
+      <workItem from="1709762345935" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="feat: creating program, requirement.txt, Dockerfile and settings.py.">
       <option name="closed" value="true" />
@@ -222,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709554367634</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor: create includes">
+      <option name="closed" value="true" />
+      <created>1709675637528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709675637528</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +246,7 @@
     <MESSAGE value="feat: added bootstrap" />
     <MESSAGE value="refactor: create urls in core app" />
     <MESSAGE value="feat: create contact page" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create contact page" />
+    <MESSAGE value="refactor: create includes" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: create includes" />
   </component>
 </project>

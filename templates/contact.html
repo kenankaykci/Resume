@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-{% include 'includes/head.html' with title='Contact' %}
-<body>
-{% include 'includes/navbar.html' %}
-<div class="container">
+{% extends 'layout.html' %}
+{% block content %}
     <div class="row">
         <div class="col-md-12">
             <h1>Contact Page</h1>
@@ -17,6 +13,4 @@
         <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
     </div>
-</div>
-</body>
-</html>
+{% endblock %}
