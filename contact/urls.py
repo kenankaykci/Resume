@@ -1,11 +1,12 @@
 from django.urls import path
-from .views import index
+from .views import contact_form, contact
 from django.conf import settings
 from django.conf.urls.static import static
 
 
 urlpatterns = [
-    path('', index, name='index'),
+    path('contact', contact, name='contact_form'),
+    path('contact', contact, name='contact'),
 ]
 
 if settings.DEBUG:
