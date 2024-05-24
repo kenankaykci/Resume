@@ -17,8 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from contact import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('core.urls')),
     path('contact/', include('contact.urls')),
+    path('contact_process.php', views.contact_process, name='contact_process.php'),
 ]
